@@ -4,7 +4,7 @@
 
 <!-- endhide -->
 
-Inside this repository, you will find a file called `problems.ipynb` with the exercises you need to finish to complete it.
+Inside this repository, you will find a file called `./notebook/problems.ipynb` with the exercises you need to finish to complete it.
 
 ## 🌱 How to start this project
 
