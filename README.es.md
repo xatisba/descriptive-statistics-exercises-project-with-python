@@ -1,6 +1,6 @@
 <!-- hide -->
 
-# Descriptive Statistics Exercises
+# Ejercicios de Estadística Descriptiva
 
 <!-- endhide -->
 
