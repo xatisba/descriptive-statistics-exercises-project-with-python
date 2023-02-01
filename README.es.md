@@ -1,7 +1,5 @@
 <!-- hide -->
-
 # Ejercicios de Estadística Descriptiva
-
 <!-- endhide -->
 
 Dentro de este repositorio, encontrarás un archivo llamado `./notebook/problems.ipynb` con los ejercicios que necesitas terminar para completarlo.
