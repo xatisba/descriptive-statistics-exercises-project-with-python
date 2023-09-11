@@ -22,4 +22,4 @@ Una vez que hayas terminado de resolver los ejercicios, asegúrate de confirmar 
 
 Una vez comiences a trabajar en el proyecto, verás un fichero `./notebook/problems.ipynb` que contiene una serie de ejercicios. Completa cada uno de ellos, uno por uno.
 
-> NOTA: Solución: https://github.com/4GeeksAcademy/descriptive-statistics-exercises-project-with-python/blob/main/notebook/solutions.ipynb
+NOTA:También incorporamos un archivo `solutions.ipynb` que te sugerimos honestamente que solo uses si estás atascado durante más de 30 minutos o si ya has terminado y deseas compararlo con tu enfoque.
