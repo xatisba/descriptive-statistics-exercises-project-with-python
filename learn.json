@@ -13,5 +13,5 @@
 	"duration" : 2,
     "autoPlay": false,
     "projectType": "project",
-	"description" : "Use your numpy, pandas and matplotib skills to practice a little about descriptive statistics"
+	"description" : "Use your NumPy, Pandas and Matplotlib skills to practice a little about descriptive statistics"
 }
